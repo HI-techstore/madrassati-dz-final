@@ -1,0 +1,22 @@
+{
+  "common": {
+    "home": "Home",
+    "contact": "Contact",
+    "sujet": "Exams",
+    "search": "Search",
+    "backToHome": "Back to Home"
+  },
+  "sujet": {
+    "title": "Exam Papers",
+    "subtitle": "Discover exam papers for all levels and subjects",
+    "selectLevel": "Select Education Level",
+    "selectLevelMessage": "Please select an education level from the side menu",
+    "noResults": "No results found",
+    "noSubjects": "No subjects available",
+    "tryAdjusting": "Try adjusting your search criteria"
+  },
+  "errors": {
+    "unexpectedError": "An unexpected error occurred",
+    "tryAgain": "Please try again"
+  }
+}

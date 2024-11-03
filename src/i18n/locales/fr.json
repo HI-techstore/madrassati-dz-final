@@ -1,0 +1,22 @@
+{
+  "common": {
+    "home": "Accueil",
+    "contact": "Contact",
+    "sujet": "Examens",
+    "search": "Rechercher",
+    "backToHome": "Retour à l'accueil"
+  },
+  "sujet": {
+    "title": "Sujets d'examens",
+    "subtitle": "Découvrez les sujets d'examens pour tous les niveaux et matières",
+    "selectLevel": "Sélectionnez le niveau d'études",
+    "selectLevelMessage": "Veuillez sélectionner un niveau d'études dans le menu latéral",
+    "noResults": "Aucun résultat trouvé",
+    "noSubjects": "Aucune matière disponible",
+    "tryAdjusting": "Essayez d'ajuster vos critères de recherche"
+  },
+  "errors": {
+    "unexpectedError": "Une erreur inattendue s'est produite",
+    "tryAgain": "Veuillez réessayer"
+  }
+}
